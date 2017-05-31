@@ -1,0 +1,270 @@
+[INFO  - 2017-05-29T12:56:12.361Z] GhostDriver - Main - running on port 24225
+[INFO  - 2017-05-29T12:56:13.453Z] Session [3206d790-446e-11e7-9214-970d54df2d91] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-05-29T12:56:13.454Z] Session [3206d790-446e-11e7-9214-970d54df2d91] - page.customHeaders:  - {}
+[INFO  - 2017-05-29T12:56:13.454Z] Session [3206d790-446e-11e7-9214-970d54df2d91] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-05-29T12:56:13.454Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 3206d790-446e-11e7-9214-970d54df2d91
+[ERROR - 2017-05-29T12:56:15.444Z] RouterReqHand - _handle.error - {"name":"Invalid Command Method","message":"{\"headers\":{\"Accept-Encoding\":\"gzip,deflate\",\"Connection\":\"Keep-Alive\",\"Content-Length\":\"2\",\"Content-Type\":\"application/json; charset=utf-8\",\"Host\":\"localhost:24225\",\"User-Agent\":\"Apache-HttpClient/4.5.3 (Java/1.8.0_131)\"},\"httpVersion\":\"1.1\",\"method\":\"POST\",\"post\":\"{}\",\"url\":\"/frame/parent\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"parent\",\"directory\":\"/frame/\",\"path\":\"/frame/parent\",\"relative\":\"/frame/parent\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/frame/parent\",\"queryKey\":{},\"chunks\":[\"frame\",\"parent\"]},\"urlOriginal\":\"/session/3206d790-446e-11e7-9214-970d54df2d91/frame/parent\"}","line":202,"sourceURL":"phantomjs://code/session_request_handler.js","stack":"_handle@phantomjs://code/session_request_handler.js:202:66\n_reroute@phantomjs://code/request_handler.js:61:20\n_handle@phantomjs://code/router_request_handler.js:78:46"}
+[INFO  - 2017-05-29T12:56:15.558Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-05-29T12:59:01.418Z] GhostDriver - Main - running on port 12992
+[INFO  - 2017-05-29T12:59:01.878Z] Session [966a7520-446e-11e7-8223-ed3923d40ecb] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-05-29T12:59:01.878Z] Session [966a7520-446e-11e7-8223-ed3923d40ecb] - page.customHeaders:  - {}
+[INFO  - 2017-05-29T12:59:01.878Z] Session [966a7520-446e-11e7-8223-ed3923d40ecb] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-05-29T12:59:01.878Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 966a7520-446e-11e7-8223-ed3923d40ecb
+[INFO  - 2017-05-29T12:59:03.747Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-05-29T13:00:55.598Z] GhostDriver - Main - running on port 11106
+[INFO  - 2017-05-29T13:00:56.086Z] Session [da7ce900-446e-11e7-8722-49f1a6eded8f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-05-29T13:00:56.086Z] Session [da7ce900-446e-11e7-8722-49f1a6eded8f] - page.customHeaders:  - {}
+[INFO  - 2017-05-29T13:00:56.086Z] Session [da7ce900-446e-11e7-8722-49f1a6eded8f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-05-29T13:00:56.086Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: da7ce900-446e-11e7-8722-49f1a6eded8f
+[INFO  - 2017-05-29T13:00:57.993Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-05-29T13:00:58.261Z] GhostDriver - Main - running on port 16317
+[INFO  - 2017-05-29T13:00:58.297Z] Session [dbce6f40-446e-11e7-8e52-b96e9857e0e3] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-05-29T13:00:58.297Z] Session [dbce6f40-446e-11e7-8e52-b96e9857e0e3] - page.customHeaders:  - {}
+[INFO  - 2017-05-29T13:00:58.297Z] Session [dbce6f40-446e-11e7-8e52-b96e9857e0e3] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-05-29T13:00:58.297Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: dbce6f40-446e-11e7-8e52-b96e9857e0e3
+[ERROR - 2017-05-29T13:01:02.038Z] Session [dbce6f40-446e-11e7-8e52-b96e9857e0e3] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) Video için kaynak bulunamadı. [object Object]
+[ERROR - 2017-05-29T13:01:02.038Z] Session [dbce6f40-446e-11e7-8e52-b96e9857e0e3] - page.onError - stack:
+  apply (:0)
+[ERROR - 2017-05-29T13:01:02.149Z] Session [dbce6f40-446e-11e7-8e52-b96e9857e0e3] - page.onError - msg: Warning: It looks like you're using a minified copy of the development build of React. When deploying React apps to production, make sure to use the production build which skips development warnings and is faster. See https://fb.me/react-minification for more details.
+[ERROR - 2017-05-29T13:01:02.149Z] Session [dbce6f40-446e-11e7-8e52-b96e9857e0e3] - page.onError - stack:
+  e (http://s.hurriyet.com.tr/static/scripts/yorumlar/hurriyet.yorumlar-app.min.js?v=octo-2.1.0.1536:8)
+[ERROR - 2017-05-29T13:01:03.159Z] Session [dbce6f40-446e-11e7-8e52-b96e9857e0e3] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) Video için kaynak bulunamadı. [object Object]
+[ERROR - 2017-05-29T13:01:03.159Z] Session [dbce6f40-446e-11e7-8e52-b96e9857e0e3] - page.onError - stack:
+  apply (:0)
+[ERROR - 2017-05-29T13:01:03.180Z] Session [dbce6f40-446e-11e7-8e52-b96e9857e0e3] - page.onError - msg: TypeError: undefined is not an object (evaluating 'this.tech_.one')
+[ERROR - 2017-05-29T13:01:03.180Z] Session [dbce6f40-446e-11e7-8e52-b96e9857e0e3] - page.onError - stack:
+  play (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:4)
+  startPlayer (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:27)
+  (anonymous function) (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:27)
+  e (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:7)
+[ERROR - 2017-05-29T13:01:04.250Z] Session [dbce6f40-446e-11e7-8e52-b96e9857e0e3] - page.onError - msg: Facebook Pixel Error: ReferenceError: Can't find variable: Set
+[ERROR - 2017-05-29T13:01:04.251Z] Session [dbce6f40-446e-11e7-8e52-b96e9857e0e3] - page.onError - stack:
+  ac (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-05-29T13:01:04.320Z] Session [dbce6f40-446e-11e7-8e52-b96e9857e0e3] - page.onError - msg: Facebook Pixel Error: ReferenceError: Can't find variable: Set
+[ERROR - 2017-05-29T13:01:04.320Z] Session [dbce6f40-446e-11e7-8e52-b96e9857e0e3] - page.onError - stack:
+  ac (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-05-29T13:01:10.340Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-05-29T13:11:13.233Z] GhostDriver - Main - running on port 5645
+[INFO  - 2017-05-29T13:11:13.784Z] Session [4aaa4c30-4470-11e7-9c66-99755eef2d89] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-05-29T13:11:13.784Z] Session [4aaa4c30-4470-11e7-9c66-99755eef2d89] - page.customHeaders:  - {}
+[INFO  - 2017-05-29T13:11:13.784Z] Session [4aaa4c30-4470-11e7-9c66-99755eef2d89] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-05-29T13:11:13.784Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 4aaa4c30-4470-11e7-9c66-99755eef2d89
+[INFO  - 2017-05-29T13:11:15.754Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-05-29T13:11:15.932Z] GhostDriver - Main - running on port 23489
+[INFO  - 2017-05-29T13:11:16.017Z] Session [4bff06c0-4470-11e7-9664-17a9c749397d] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-05-29T13:11:16.017Z] Session [4bff06c0-4470-11e7-9664-17a9c749397d] - page.customHeaders:  - {}
+[INFO  - 2017-05-29T13:11:16.018Z] Session [4bff06c0-4470-11e7-9664-17a9c749397d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-05-29T13:11:16.018Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 4bff06c0-4470-11e7-9664-17a9c749397d
+[ERROR - 2017-05-29T13:11:17.448Z] Session [4bff06c0-4470-11e7-9664-17a9c749397d] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) Video için kaynak bulunamadı. [object Object]
+[ERROR - 2017-05-29T13:11:17.448Z] Session [4bff06c0-4470-11e7-9664-17a9c749397d] - page.onError - stack:
+  apply (:0)
+[ERROR - 2017-05-29T13:11:17.569Z] Session [4bff06c0-4470-11e7-9664-17a9c749397d] - page.onError - msg: Warning: It looks like you're using a minified copy of the development build of React. When deploying React apps to production, make sure to use the production build which skips development warnings and is faster. See https://fb.me/react-minification for more details.
+[ERROR - 2017-05-29T13:11:17.569Z] Session [4bff06c0-4470-11e7-9664-17a9c749397d] - page.onError - stack:
+  e (http://s.hurriyet.com.tr/static/scripts/yorumlar/hurriyet.yorumlar-app.min.js?v=octo-2.1.0.1536:8)
+[ERROR - 2017-05-29T13:11:18.949Z] Session [4bff06c0-4470-11e7-9664-17a9c749397d] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) Video için kaynak bulunamadı. [object Object]
+[ERROR - 2017-05-29T13:11:18.949Z] Session [4bff06c0-4470-11e7-9664-17a9c749397d] - page.onError - stack:
+  apply (:0)
+[ERROR - 2017-05-29T13:11:18.976Z] Session [4bff06c0-4470-11e7-9664-17a9c749397d] - page.onError - msg: TypeError: undefined is not an object (evaluating 'this.tech_.one')
+[ERROR - 2017-05-29T13:11:18.976Z] Session [4bff06c0-4470-11e7-9664-17a9c749397d] - page.onError - stack:
+  play (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:4)
+  startPlayer (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:27)
+  (anonymous function) (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:27)
+  e (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:7)
+[ERROR - 2017-05-29T13:11:19.221Z] Session [4bff06c0-4470-11e7-9664-17a9c749397d] - page.onError - msg: Facebook Pixel Error: ReferenceError: Can't find variable: Set
+[ERROR - 2017-05-29T13:11:19.223Z] Session [4bff06c0-4470-11e7-9664-17a9c749397d] - page.onError - stack:
+  ac (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-05-29T13:11:19.225Z] Session [4bff06c0-4470-11e7-9664-17a9c749397d] - page.onError - msg: Facebook Pixel Error: ReferenceError: Can't find variable: Set
+[ERROR - 2017-05-29T13:11:19.225Z] Session [4bff06c0-4470-11e7-9664-17a9c749397d] - page.onError - stack:
+  ac (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-05-29T13:11:24.987Z] Session [4bff06c0-4470-11e7-9664-17a9c749397d] - page.onError - msg: TypeError: undefined is not a function (evaluating '$(this)[0].play()')
+[ERROR - 2017-05-29T13:11:24.987Z] Session [4bff06c0-4470-11e7-9664-17a9c749397d] - page.onError - stack:
+  (anonymous function) (http://www.hurriyet.com.tr/korkunc-gercegi-icisleri-bakani-acikladi-pkknin-elinde-var-40426979:1)
+  dispatch (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1536:13)
+  handle (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1536:13)
+  trigger (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1536:13)
+  (anonymous function) (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1536:13)
+  each (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1536:12)
+  each (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1536:12)
+  trigger (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1536:13)
+  i (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.app.min.js?v=octo-2.1.0.1536:7)
+[ERROR - 2017-05-29T13:11:25.249Z] Session [4bff06c0-4470-11e7-9664-17a9c749397d] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) Video için kaynak bulunamadı. [object Object]
+[ERROR - 2017-05-29T13:11:25.249Z] Session [4bff06c0-4470-11e7-9664-17a9c749397d] - page.onError - stack:
+  apply (:0)
+[ERROR - 2017-05-29T13:11:25.269Z] Session [4bff06c0-4470-11e7-9664-17a9c749397d] - page.onError - msg: TypeError: undefined is not an object (evaluating 'this.tech_.one')
+[ERROR - 2017-05-29T13:11:25.269Z] Session [4bff06c0-4470-11e7-9664-17a9c749397d] - page.onError - stack:
+  play (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:4)
+  startPlayer (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:27)
+  (anonymous function) (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:27)
+  e (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:7)
+[ERROR - 2017-05-29T13:11:25.547Z] Session [4bff06c0-4470-11e7-9664-17a9c749397d] - page.onError - msg: Facebook Pixel Error: ReferenceError: Can't find variable: Set
+[ERROR - 2017-05-29T13:11:25.548Z] Session [4bff06c0-4470-11e7-9664-17a9c749397d] - page.onError - stack:
+  ac (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-05-29T13:11:38.587Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-05-29T13:11:56.577Z] GhostDriver - Main - running on port 3263
+[INFO  - 2017-05-29T13:11:57.051Z] Session [64742a50-4470-11e7-90db-2ffa12bd7ef3] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-05-29T13:11:57.053Z] Session [64742a50-4470-11e7-90db-2ffa12bd7ef3] - page.customHeaders:  - {}
+[INFO  - 2017-05-29T13:11:57.053Z] Session [64742a50-4470-11e7-90db-2ffa12bd7ef3] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-05-29T13:11:57.054Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 64742a50-4470-11e7-90db-2ffa12bd7ef3
+[INFO  - 2017-05-29T13:11:59.071Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-05-29T13:11:59.188Z] GhostDriver - Main - running on port 13994
+[INFO  - 2017-05-29T13:11:59.271Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-05-29T13:11:59.271Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.customHeaders:  - {}
+[INFO  - 2017-05-29T13:11:59.272Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-05-29T13:11:59.272Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 65c6e910-4470-11e7-86c5-a72fe29e2327
+[ERROR - 2017-05-29T13:12:00.630Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) Video için kaynak bulunamadı. [object Object]
+[ERROR - 2017-05-29T13:12:00.630Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - stack:
+  apply (:0)
+[ERROR - 2017-05-29T13:12:00.646Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) Video için kaynak bulunamadı. [object Object]
+[ERROR - 2017-05-29T13:12:00.646Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - stack:
+  apply (:0)
+[ERROR - 2017-05-29T13:12:00.694Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - msg: TypeError: undefined is not an object (evaluating 'this.tech_.one')
+[ERROR - 2017-05-29T13:12:00.694Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - stack:
+  play (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:4)
+  startPlayer (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:27)
+  (anonymous function) (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:27)
+  e (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:7)
+[ERROR - 2017-05-29T13:12:00.789Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - msg: Warning: It looks like you're using a minified copy of the development build of React. When deploying React apps to production, make sure to use the production build which skips development warnings and is faster. See https://fb.me/react-minification for more details.
+[ERROR - 2017-05-29T13:12:00.789Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - stack:
+  e (http://s.hurriyet.com.tr/static/scripts/yorumlar/hurriyet.yorumlar-app.min.js?v=octo-2.1.0.1544:8)
+[ERROR - 2017-05-29T13:12:01.381Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - msg: Facebook Pixel Error: ReferenceError: Can't find variable: Set
+[ERROR - 2017-05-29T13:12:01.381Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - stack:
+  ac (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-05-29T13:12:01.436Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - msg: Facebook Pixel Error: ReferenceError: Can't find variable: Set
+[ERROR - 2017-05-29T13:12:01.436Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - stack:
+  ac (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-05-29T13:12:01.712Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) Video için kaynak bulunamadı. [object Object]
+[ERROR - 2017-05-29T13:12:01.712Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - stack:
+  apply (:0)
+[ERROR - 2017-05-29T13:12:01.734Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - msg: TypeError: undefined is not an object (evaluating 'this.tech_.one')
+[ERROR - 2017-05-29T13:12:01.734Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - stack:
+  play (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:4)
+  startPlayer (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:27)
+  (anonymous function) (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:27)
+  e (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:7)
+[ERROR - 2017-05-29T13:12:02.327Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - msg: Facebook Pixel Error: ReferenceError: Can't find variable: Set
+[ERROR - 2017-05-29T13:12:02.328Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - stack:
+  ac (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-05-29T13:12:04.823Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - msg: TypeError: undefined is not a function (evaluating '$(this)[0].play()')
+[ERROR - 2017-05-29T13:12:04.823Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - stack:
+  (anonymous function) (http://www.hurriyet.com.tr/korkunc-gercegi-icisleri-bakani-acikladi-pkknin-elinde-var-40426979:1)
+  dispatch (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1544:13)
+  handle (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1544:13)
+  trigger (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1544:13)
+  (anonymous function) (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1544:13)
+  each (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1544:12)
+  each (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1544:12)
+  trigger (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1544:13)
+  i (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.app.min.js?v=octo-2.1.0.1544:7)
+[ERROR - 2017-05-29T13:12:05.179Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) Video için kaynak bulunamadı. [object Object]
+[ERROR - 2017-05-29T13:12:05.179Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - stack:
+  apply (:0)
+[ERROR - 2017-05-29T13:12:05.191Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - msg: TypeError: undefined is not an object (evaluating 'this.tech_.one')
+[ERROR - 2017-05-29T13:12:05.191Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - stack:
+  play (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:4)
+  startPlayer (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:27)
+  (anonymous function) (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:27)
+  e (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:7)
+[ERROR - 2017-05-29T13:12:05.429Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - msg: Facebook Pixel Error: ReferenceError: Can't find variable: Set
+[ERROR - 2017-05-29T13:12:05.429Z] Session [65c6e910-4470-11e7-86c5-a72fe29e2327] - page.onError - stack:
+  ac (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-05-29T13:12:18.920Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-05-29T13:16:39.475Z] GhostDriver - Main - running on port 21700
+[INFO  - 2017-05-29T13:16:40.057Z] Session [0d22ff00-4471-11e7-b298-9bb85a7203a3] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-05-29T13:16:40.057Z] Session [0d22ff00-4471-11e7-b298-9bb85a7203a3] - page.customHeaders:  - {}
+[INFO  - 2017-05-29T13:16:40.058Z] Session [0d22ff00-4471-11e7-b298-9bb85a7203a3] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-05-29T13:16:40.058Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0d22ff00-4471-11e7-b298-9bb85a7203a3
+[INFO  - 2017-05-29T13:16:41.886Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-05-29T13:16:42.099Z] GhostDriver - Main - running on port 3131
+[INFO  - 2017-05-29T13:16:42.138Z] Session [0e614b60-4471-11e7-9976-71d0be3ad895] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-05-29T13:16:42.138Z] Session [0e614b60-4471-11e7-9976-71d0be3ad895] - page.customHeaders:  - {}
+[INFO  - 2017-05-29T13:16:42.138Z] Session [0e614b60-4471-11e7-9976-71d0be3ad895] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-05-29T13:16:42.139Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0e614b60-4471-11e7-9976-71d0be3ad895
+[ERROR - 2017-05-29T13:16:43.588Z] Session [0e614b60-4471-11e7-9976-71d0be3ad895] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) Video için kaynak bulunamadı. [object Object]
+[ERROR - 2017-05-29T13:16:43.588Z] Session [0e614b60-4471-11e7-9976-71d0be3ad895] - page.onError - stack:
+  apply (:0)
+[ERROR - 2017-05-29T13:16:43.718Z] Session [0e614b60-4471-11e7-9976-71d0be3ad895] - page.onError - msg: Warning: It looks like you're using a minified copy of the development build of React. When deploying React apps to production, make sure to use the production build which skips development warnings and is faster. See https://fb.me/react-minification for more details.
+[ERROR - 2017-05-29T13:16:43.718Z] Session [0e614b60-4471-11e7-9976-71d0be3ad895] - page.onError - stack:
+  e (http://s.hurriyet.com.tr/static/scripts/yorumlar/hurriyet.yorumlar-app.min.js?v=octo-2.1.0.1544:8)
+[ERROR - 2017-05-29T13:16:44.061Z] Session [0e614b60-4471-11e7-9976-71d0be3ad895] - page.onError - msg: Facebook Pixel Error: ReferenceError: Can't find variable: Set
+[ERROR - 2017-05-29T13:16:44.062Z] Session [0e614b60-4471-11e7-9976-71d0be3ad895] - page.onError - stack:
+  ac (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-05-29T13:16:44.704Z] Session [0e614b60-4471-11e7-9976-71d0be3ad895] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) Video için kaynak bulunamadı. [object Object]
+[ERROR - 2017-05-29T13:16:44.704Z] Session [0e614b60-4471-11e7-9976-71d0be3ad895] - page.onError - stack:
+  apply (:0)
+[ERROR - 2017-05-29T13:16:44.723Z] Session [0e614b60-4471-11e7-9976-71d0be3ad895] - page.onError - msg: TypeError: undefined is not an object (evaluating 'this.tech_.one')
+[ERROR - 2017-05-29T13:16:44.723Z] Session [0e614b60-4471-11e7-9976-71d0be3ad895] - page.onError - stack:
+  play (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:4)
+  startPlayer (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:27)
+  (anonymous function) (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:27)
+  e (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:7)
+[ERROR - 2017-05-29T13:16:45.266Z] Session [0e614b60-4471-11e7-9976-71d0be3ad895] - page.onError - msg: Facebook Pixel Error: ReferenceError: Can't find variable: Set
+[ERROR - 2017-05-29T13:16:45.266Z] Session [0e614b60-4471-11e7-9976-71d0be3ad895] - page.onError - stack:
+  ac (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-05-29T13:16:51.507Z] Session [0e614b60-4471-11e7-9976-71d0be3ad895] - page.onError - msg: TypeError: undefined is not a function (evaluating '$(this)[0].play()')
+[ERROR - 2017-05-29T13:16:51.508Z] Session [0e614b60-4471-11e7-9976-71d0be3ad895] - page.onError - stack:
+  (anonymous function) (http://www.hurriyet.com.tr/korkunc-gercegi-icisleri-bakani-acikladi-pkknin-elinde-var-40426979:1)
+  dispatch (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1544:13)
+  handle (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1544:13)
+  trigger (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1544:13)
+  (anonymous function) (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1544:13)
+  each (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1544:12)
+  each (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1544:12)
+  trigger (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1544:13)
+  i (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.app.min.js?v=octo-2.1.0.1544:7)
+[ERROR - 2017-05-29T13:16:51.669Z] Session [0e614b60-4471-11e7-9976-71d0be3ad895] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) Video için kaynak bulunamadı. [object Object]
+[ERROR - 2017-05-29T13:16:51.669Z] Session [0e614b60-4471-11e7-9976-71d0be3ad895] - page.onError - stack:
+  apply (:0)
+[ERROR - 2017-05-29T13:16:51.685Z] Session [0e614b60-4471-11e7-9976-71d0be3ad895] - page.onError - msg: TypeError: undefined is not an object (evaluating 'this.tech_.one')
+[ERROR - 2017-05-29T13:16:51.685Z] Session [0e614b60-4471-11e7-9976-71d0be3ad895] - page.onError - stack:
+  play (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:4)
+  startPlayer (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:27)
+  (anonymous function) (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:27)
+  e (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:7)
+[ERROR - 2017-05-29T13:16:51.865Z] Session [0e614b60-4471-11e7-9976-71d0be3ad895] - page.onError - msg: Facebook Pixel Error: ReferenceError: Can't find variable: Set
+[ERROR - 2017-05-29T13:16:51.865Z] Session [0e614b60-4471-11e7-9976-71d0be3ad895] - page.onError - stack:
+  ac (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-05-29T13:17:04.612Z] ShutdownReqHand - _handle - About to shutdown
+[ERROR - 2017-05-29T13:23:55.062Z] Session [0f4637b0-4472-11e7-86b8-7369b5bdef27] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) Video için kaynak bulunamadı. [object Object]
+[ERROR - 2017-05-29T13:23:55.063Z] Session [0f4637b0-4472-11e7-86b8-7369b5bdef27] - page.onError - stack:
+  apply (:0)
+[ERROR - 2017-05-29T13:23:55.253Z] Session [0f4637b0-4472-11e7-86b8-7369b5bdef27] - page.onError - msg: Warning: It looks like you're using a minified copy of the development build of React. When deploying React apps to production, make sure to use the production build which skips development warnings and is faster. See https://fb.me/react-minification for more details.
+[ERROR - 2017-05-29T13:23:55.254Z] Session [0f4637b0-4472-11e7-86b8-7369b5bdef27] - page.onError - stack:
+  e (http://s.hurriyet.com.tr/static/scripts/yorumlar/hurriyet.yorumlar-app.min.js?v=octo-2.1.0.1544:8)
+[ERROR - 2017-05-29T13:23:55.435Z] Session [0f4637b0-4472-11e7-86b8-7369b5bdef27] - page.onError - msg: Facebook Pixel Error: ReferenceError: Can't find variable: Set
+[ERROR - 2017-05-29T13:23:55.435Z] Session [0f4637b0-4472-11e7-86b8-7369b5bdef27] - page.onError - stack:
+  ac (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-05-29T13:23:56.272Z] Session [0f4637b0-4472-11e7-86b8-7369b5bdef27] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) Video için kaynak bulunamadı. [object Object]
+[ERROR - 2017-05-29T13:23:56.273Z] Session [0f4637b0-4472-11e7-86b8-7369b5bdef27] - page.onError - stack:
+  apply (:0)
+[ERROR - 2017-05-29T13:23:56.291Z] Session [0f4637b0-4472-11e7-86b8-7369b5bdef27] - page.onError - msg: TypeError: undefined is not an object (evaluating 'this.tech_.one')
+[ERROR - 2017-05-29T13:23:56.292Z] Session [0f4637b0-4472-11e7-86b8-7369b5bdef27] - page.onError - stack:
+  play (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:4)
+  startPlayer (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:27)
+  (anonymous function) (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:27)
+  e (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:7)
+[ERROR - 2017-05-29T13:23:56.536Z] Session [0f4637b0-4472-11e7-86b8-7369b5bdef27] - page.onError - msg: Facebook Pixel Error: ReferenceError: Can't find variable: Set
+[ERROR - 2017-05-29T13:23:56.536Z] Session [0f4637b0-4472-11e7-86b8-7369b5bdef27] - page.onError - stack:
+  ac (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-05-29T13:23:59.608Z] Session [0f4637b0-4472-11e7-86b8-7369b5bdef27] - page.onError - msg: TypeError: undefined is not a function (evaluating '$(this)[0].play()')
+[ERROR - 2017-05-29T13:23:59.608Z] Session [0f4637b0-4472-11e7-86b8-7369b5bdef27] - page.onError - stack:
+  (anonymous function) (http://www.hurriyet.com.tr/korkunc-gercegi-icisleri-bakani-acikladi-pkknin-elinde-var-40426979:1)
+  dispatch (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1544:13)
+  handle (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1544:13)
+  trigger (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1544:13)
+  (anonymous function) (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1544:13)
+  each (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1544:12)
+  each (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1544:12)
+  trigger (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.vendor.min.js?v=octo-2.1.0.1544:13)
+  i (http://s.hurriyet.com.tr/static/scripts/hurriyet/hurriyet.app.min.js?v=octo-2.1.0.1544:7)
+[ERROR - 2017-05-29T13:23:59.788Z] Session [0f4637b0-4472-11e7-86b8-7369b5bdef27] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) Video için kaynak bulunamadı. [object Object]
+[ERROR - 2017-05-29T13:23:59.788Z] Session [0f4637b0-4472-11e7-86b8-7369b5bdef27] - page.onError - stack:
+  apply (:0)
+[ERROR - 2017-05-29T13:23:59.803Z] Session [0f4637b0-4472-11e7-86b8-7369b5bdef27] - page.onError - msg: TypeError: undefined is not an object (evaluating 'this.tech_.one')
+[ERROR - 2017-05-29T13:23:59.803Z] Session [0f4637b0-4472-11e7-86b8-7369b5bdef27] - page.onError - stack:
+  play (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:4)
+  startPlayer (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:27)
+  (anonymous function) (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:27)
+  e (http://s.dogannet.tv/q/s/player/html5/1.11.0/assets/js/docs.min.js:7)
+[ERROR - 2017-05-29T13:23:59.971Z] Session [0f4637b0-4472-11e7-86b8-7369b5bdef27] - page.onError - msg: Facebook Pixel Error: ReferenceError: Can't find variable: Set
+[ERROR - 2017-05-29T13:23:59.971Z] Session [0f4637b0-4472-11e7-86b8-7369b5bdef27] - page.onError - stack:
+  ac (https://connect.facebook.net/en_US/fbevents.js:24)
